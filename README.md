@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=220&section=header&text=Purvi%20Patel&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20RAG%20%26%20Agentic%20AI%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Agentic+RAG+Systems;LLMs+%7C+FAISS+%7C+Neural+Networks;Data+Science+%26+Machine+Learning;Full+Stack+Development+with+Django+%26+FastAPI" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:7c3aed&height=200&section=header&text=Purvi%20Patel&fontSize=50&fontColor=ffffff" width="100%"/>
 </a>
 
 <br/><br/>
